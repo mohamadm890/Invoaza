@@ -8,10 +8,30 @@ export const metadata: Metadata = {
 
 
   export default function Page() {
+    const emptyInvoice = {
+  id: "",                
+  invoiceId: "",          
+  date: "",               
+  dueDate: "",            
+  sender: {
+    name: "",
+    email: "",
+    address: "",
+    currency: "",
+  },
+  client: {
+    name: "",
+    email: "",
+    address: "",
+  },
+  items: [],
+  payment: "",            
+};
+
     return (
       <main>
         {/* 1. The Interactive Tool (Your code) */}
-        <InvoicesPage invoice={null} />
+        <InvoicesPage invoice={emptyInvoice} />
   
         {/* 2. The SEO Content Section (Invisible to users if you want, but visible to Google) */}
         <section className="max-w-4xl mx-auto p-8 prose">
