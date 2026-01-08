@@ -99,7 +99,7 @@ export default function FreelanceInvoicePage() {
         <InvoicesPage invoice={defaultInvoice} />
       </section>
 
-      <section className="mt-20 border-t border-gray-50 pt-10 prose prose-slate max-w-none text-gray-500 px-4 md:px-20">
+      <section className="mt-8 border-t border-gray-50 pt-10 prose prose-slate max-w-none text-gray-500  md:px-20">
         <h2 className="text-xl font-semibold">How to bill as a UX/UI freelancer</h2>
         <p>
           Our <strong>freelance invoice generator</strong> helps designers clearly list tasks such as <strong>UX research</strong>, 
