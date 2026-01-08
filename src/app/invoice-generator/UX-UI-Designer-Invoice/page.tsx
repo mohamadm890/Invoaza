@@ -86,9 +86,7 @@ export default function FreelanceInvoicePage() {
       />
       
       <header className="py-8 md:py-12 px-4 text-center">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 leading-snug md:leading-tight">
-          Free UX/UI Freelancer Invoice Generator
-        </h1>
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 leading-snug md:leading-tight">Free UX/UI Freelancer Invoice Generator</h1>
         <p className="mt-3 sm:mt-4 text-base sm:text-lg md:text-xl text-gray-600 max-w-md sm:max-w-lg md:max-w-2xl mx-auto leading-relaxed">
           Create professional PDF invoices for your UX/UI design services in seconds. 
           Include deliverables, revisions, and payment terms to get paid faster.
@@ -101,10 +99,8 @@ export default function FreelanceInvoicePage() {
 
       <section className="mt-8 border-t border-gray-50 pt-10 prose prose-slate max-w-none text-gray-500  md:px-20">
         <h2 className="text-xl font-semibold">How to bill as a UX/UI freelancer</h2>
-        <p>
-          Our <strong>freelance invoice generator</strong> helps designers clearly list tasks such as <strong>UX research</strong>, 
-          <strong>UI screens</strong>, and <strong>design system components</strong>.
-        </p>
+        <p>Our <strong>freelance invoice generator</strong> helps designers clearly list tasks such as <strong>UX research</strong>, 
+          <strong>UI screens</strong>, and <strong>design system components</strong>.</p>
 
         {/* FAQ Section */}
         <div className="grid md:grid-cols-2 gap-6 mt-6">
