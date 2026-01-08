@@ -87,10 +87,7 @@ export default function FreelanceInvoicePage() {
       
       <header className="py-8 md:py-12 px-4 text-center">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 leading-snug md:leading-tight">Free UX/UI Freelancer Invoice Generator</h1>
-        <p className="mt-3 sm:mt-4 text-base sm:text-lg md:text-xl text-gray-600 max-w-md sm:max-w-lg md:max-w-2xl mx-auto leading-relaxed">
-          Create professional PDF invoices for your UX/UI design services in seconds. 
-          Include deliverables, revisions, and payment terms to get paid faster.
-        </p>
+        <p className="mt-3 sm:mt-4 text-base sm:text-lg md:text-xl text-gray-600 max-w-md sm:max-w-lg md:max-w-2xl mx-auto leading-relaxed">Create professional PDF invoices for your UX/UI design services in seconds. Include deliverables, revisions, and payment terms to get paid faster.</p>
       </header>
       
       <section className="px-4">
