@@ -1,0 +1,6 @@
+# Allow all search engines to crawl everything
+User-agent: *
+Disallow:
+
+# Link to sitemap
+Sitemap: https://www.invoaza.com/sitemap.xml
