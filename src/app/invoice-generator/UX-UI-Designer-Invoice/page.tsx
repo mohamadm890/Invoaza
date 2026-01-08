@@ -90,7 +90,7 @@ export default function FreelanceInvoicePage() {
         <p className="mt-3 sm:mt-4 text-base sm:text-lg md:text-xl text-gray-600 max-w-md sm:max-w-lg md:max-w-2xl mx-auto leading-relaxed">Create professional PDF invoices for your UX/UI design services in seconds. Include deliverables, revisions, and payment terms to get paid faster.</p>
       </header>
       
-      <section className="px-4">
+      <section className="md:p-2">
         <InvoicesPage invoice={defaultInvoice} />
       </section>
 
