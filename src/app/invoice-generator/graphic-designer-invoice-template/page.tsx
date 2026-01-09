@@ -2,7 +2,6 @@
 import InvoicesPage from "@/components/create/InvoiceCreate";
 import { Metadata } from "next";
 
-// 1. Metadata for SEO & Social Sharing
 export const metadata: Metadata = {
   title: "Free Graphic Designer Invoice Template | Professional Design Billing",
   description:
