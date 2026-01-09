@@ -22,4 +22,11 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- Private Tutor Invoice Template Page -->
+  <url>
+    <loc>https://www.invoaza.com/invoice-generator/private-tutor-invoice-template</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 </urlset>
