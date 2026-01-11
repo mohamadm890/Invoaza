@@ -36,6 +36,11 @@
     <priority>0.9</priority>
   </url>
 
+  <!-- Freelance Artist Invoice Template Page -->
+  <url>
+    <loc>https://www.invoaza.com/invoice-generator/freelance-artist-invoice-template</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
 </urlset>
-
-
